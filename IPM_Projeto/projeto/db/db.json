@@ -1,0 +1,478 @@
+{
+  "users": [
+    {
+      "id": "e59f",
+      "email": "rogerio@gmail.com",
+      "password": "abc",
+      "name": "Rogério",
+      "idade": "49",
+      "educacao": "Mestre em Engenharia Mecânica",
+      "especializacao": "Manutenção de Veículos Elétricos",
+      "interesses": "Novas tecnologias automotivas, mecânica de precisão",
+      "objetivos": "Aprender novas técnicas de diagnóstico de falhas",
+      "desafios": "Lidar com veículos híbridos de alta complexidade",
+      "solucoes": "Participar de cursos de atualização regularmente",
+      "citacao": "Sou um mecânico apaixonado por carros elétricos, sempre em busca de novos desafios e aprendizado.",
+      "profissao": "Mecânico",
+      "localizacao": "Porto"
+    },
+    {
+      "id": "af49",
+      "email": "banana@exemplo.com",
+      "password": "123123123",
+      "name": "Tomas",
+      "idade": "41",
+      "educacao": "Curso técnico em Mecânica Automotiva",
+      "especializacao": "Reparo de Motores a Diesel",
+      "interesses": "Caminhões pesados, equipamentos agrícolas",
+      "objetivos": "Tornar-me especialista em motores diesel de última geração",
+      "desafios": "Diagnosticar problemas complexos em sistemas de injeção",
+      "solucoes": "Estudar sistemas de injeção eletrônica avançada",
+      "citacao": "Mecânico dedicado com paixão por motores diesel e experiência em resolver problemas desafiadores.",
+      "profissao": "Mecânico",
+      "localizacao": "Coimbra"
+    },
+    {
+      "id": "6c57",
+      "email": "jesus@gmail.com",
+      "password": "jesus",
+      "name": "Jesus",
+      "idade": "55",
+      "educacao": "Graduação em Engenharia Elétrica",
+      "especializacao": "Sistemas de Controle de Veículos Híbridos",
+      "interesses": "Integração de sistemas, eficiência energética",
+      "objetivos": "Desenvolver soluções para aumentar a autonomia de veículos híbridos",
+      "desafios": "Integrar sistemas elétricos e de combustão de forma eficiente",
+      "solucoes": "Pesquisar novas tecnologias de baterias e motores",
+      "citacao": "Engenheiro elétrico apaixonado por veículos híbridos, focado em encontrar soluções inovadoras para os desafios da mobilidade sustentável.",
+      "profissao": "Mecânico",
+      "localizacao": "Porto"
+    },
+    {
+      "id": "662b",
+      "email": "margarida@gmail.com",
+      "password": "asd",
+      "name": "Margarida",
+      "idade": "45",
+      "educacao": "Formação técnica em Mecatrônica",
+      "especializacao": "Manutenção de Sistemas de Transmissão Automatizada",
+      "interesses": "Robótica, automação industrial",
+      "objetivos": "Automatizar processos de manutenção para aumentar eficiência",
+      "desafios": "Integrar sistemas de controle de transmissão avançados",
+      "solucoes": "Estudar programação avançada e controle de robôs",
+      "citacao": "Mecânico com experiência em sistemas automatizados, buscando aplicar conhecimentos de mecatrônica na indústria automotiva.",
+      "profissao": "Mecânico",
+      "localizacao": "Braga"
+    },
+    {
+      "id": "ec8b",
+      "email": "ricardo@gmail.com",
+      "password": "abc",
+      "name": "Ricardo",
+      "idade": "35",
+      "educacao": "Curso técnico em Eletrônica",
+      "especializacao": "Diagnóstico de Sistemas Elétricos em Veículos",
+      "interesses": "Eletrônica automotiva, sistemas de segurança veicular",
+      "objetivos": "Tornar-me especialista em sistemas de segurança e conforto veicular",
+      "desafios": "Diagnosticar problemas em sistemas elétricos complexos",
+      "solucoes": "Participar de treinamentos especializados em eletrônica automotiva",
+      "citacao": "Eletricista automotivo com habilidades avançadas em diagnóstico e reparo de sistemas elétricos, comprometido em manter os veículos seguros e funcionais.",
+      "profissao": "Mecânico",
+      "localizacao": "Aveiro"
+    },
+    {
+      "id": "6f74",
+      "email": "shgf",
+      "password": "sdfsdf",
+      "name": "ghsfgh"
+    },
+    {
+      "id": "2691",
+      "email": "mtap03@gmail.com",
+      "password": "123456",
+      "name": "Tomas"
+    },
+    {
+      "id": "9fcc",
+      "email": "asd",
+      "password": "asd",
+      "name": "asd"
+    },
+    {
+      "id": "a459",
+      "email": "margarida@gmail.com",
+      "password": "12345",
+      "name": "Margarida"
+    },
+    {
+      "id": "fc9c",
+      "email": "margarida@gmail.com",
+      "password": "12345",
+      "name": "Margarida"
+    },
+    {
+      "id": "ts21",
+      "email": "tomasousa@gmail.com",
+      "password": "test",
+      "name": "Tomás Sousa"
+    },
+    {
+      "id": "a95c",
+      "email": "kljdlksddfslk",
+      "password": "",
+      "name": "joao"
+    },
+    {
+      "id": "fba3",
+      "email": "açsojdpoasd",
+      "password": "isdogopfd",
+      "name": "askkdjasp"
+    },
+    {
+      "id": "bf8b",
+      "email": "asdf",
+      "password": "asdf",
+      "name": "asdf"
+    }
+  ],
+  "service-definitions": [
+    {
+      "id": "sp",
+      "descr": "Substituir pneus",
+      "duração": 40
+    },
+    {
+      "id": "cr",
+      "descr": "Calibrar rodas",
+      "duração": 20
+    },
+    {
+      "id": "ad",
+      "descr": "Alinhar direção",
+      "duração": 30
+    },
+    {
+      "id": "sct",
+      "descr": "Subsituir calços travões",
+      "duração": 60
+    },
+    {
+      "id": "mot",
+      "descr": "Mudar óleo travões",
+      "duração": 20
+    },
+    {
+      "id": "li",
+      "descr": "Limpeza interior",
+      "duração": 120
+    },
+    {
+      "id": "le",
+      "descr": "Limpeza exterior",
+      "duração": 30
+    },
+    {
+      "id": "sfah",
+      "descr": "Substituir filtro ar habitáculo",
+      "duração": 30
+    },
+    {
+      "id": "mom",
+      "descr": "Mudar óleo motor",
+      "duração": 10
+    },
+    {
+      "id": "sfo",
+      "descr": "Substituir filtro óleo",
+      "duração": 20
+    },
+    {
+      "id": "sfc",
+      "descr": "Substituir filtro combustível",
+      "duração": 30
+    },
+    {
+      "id": "sfam",
+      "descr": "Substituir filtro ar motor",
+      "duração": 30
+    },
+    {
+      "id": "scc",
+      "descr": "Substituir conversor catalítico",
+      "duração": 30
+    },
+    {
+      "id": "sba",
+      "descr": "Substituir bateria de arranque",
+      "duração": 30
+    },
+    {
+      "id": "svi",
+      "descr": "Substituir velas de incandescência",
+      "duração": 30
+    },
+    {
+      "id": "sfp",
+      "descr": "Substituir filtro de partículas",
+      "duração": 30
+    },
+    {
+      "id": "rfp",
+      "descr": "Regenerar filtro de partículas",
+      "duração": 30
+    },
+    {
+      "id": "sva",
+      "descr": "Substituir válvula do acelerador",
+      "duração": 30
+    },
+    {
+      "id": "svi",
+      "descr": "Substituir velas de ignição",
+      "duração": 30
+    },
+    {
+      "id": "adb",
+      "descr": "Avaliar desempenho da bateria",
+      "duração": 30
+    },
+    {
+      "id": "sb",
+      "descr": "Substituir bateria",
+      "duração": 20
+    }
+  ],
+  "vehicle-types": [
+    {
+      "id": "gasolina",
+      "serviços": [
+        "sp",
+        "cr",
+        "ad",
+        "sct",
+        "mot",
+        "li",
+        "le",
+        "sfah",
+        "mom",
+        "sfo",
+        "sfc",
+        "sfam",
+        "scc",
+        "sba",
+        "sva",
+        "svi"
+      ]
+    },
+    {
+      "id": "gasoleo",
+      "serviços": [
+        "sp",
+        "cr",
+        "ad",
+        "sct",
+        "mot",
+        "li",
+        "le",
+        "sfah",
+        "mom",
+        "sfo",
+        "sfc",
+        "sfam",
+        "scc",
+        "sba",
+        "svi",
+        "sfp",
+        "rfp"
+      ]
+    },
+    {
+      "id": "eletrico",
+      "serviços": [
+        "sp",
+        "cr",
+        "ad",
+        "sct",
+        "mot",
+        "li",
+        "le",
+        "sfah",
+        "adb",
+        "sb"
+      ]
+    },
+    {
+      "id": "hibrido",
+      "serviços": [
+        "sp",
+        "cr",
+        "ad",
+        "sct",
+        "mot",
+        "li",
+        "le",
+        "sfah",
+        "mom",
+        "sfo",
+        "sfc",
+        "sfam",
+        "scc",
+        "sba",
+        "sva",
+        "svi",
+        "adb",
+        "sb"
+      ]
+    }
+  ],
+  "clients": [
+    {
+      "id": "123",
+      "nome": "João Silva",
+      "email": "js@imail.com",
+      "telefone": "912345678"
+    },
+    {
+      "id": "124",
+      "nome": "Maria Santos",
+      "email": "jms@imail.com",
+      "telefone": "912345679"
+    },
+    {
+      "id": "125",
+      "nome": "José Pereira",
+      "email": "jp@imail.com",
+      "telefone": "912345680"
+    }
+  ],
+  "vehicles": [
+    {
+      "id": "08-25-AA",
+      "clientId": "123",
+      "modelo": "Mercedez",
+      "vehicle-typeId": "gasolina",
+      "cilindrada": 1000,
+      "kms": 200000
+    },
+    {
+      "id": "AH-31-BB",
+      "clientId": "124",
+      "modelo": "Opel",
+      "vehicle-typeId": "gasoleo",
+      "cilindrada": 2000,
+      "kms": 120000
+    },
+    {
+      "id": "AH-32-44",
+      "clientId": "123",
+      "modelo": "Mercedez",
+      "vehicle-typeId": "eletrico",
+      "potencia": 200,
+      "kms": 20000
+    },
+    {
+      "id": "AH-21-25",
+      "clientId": "125",
+      "modelo": "Audi",
+      "vehicle-typeId": "hibrido",
+      "cilindrada": 1000,
+      "potencia": 200,
+      "kms": 80000
+    }
+  ],
+  "services": [
+    {
+      "id": "s31",
+      "vehicleId": "08-25-AA",
+      "service-definitionId": "sp",
+      "estado": "realizado",
+      "razao": "nao sei",
+      "agendamento": "filaDeEspera",
+      "descrição": "Colocar XPTO 225R15"
+    },
+    {
+      "id": "s32",
+      "vehicleId": "AH-31-BB",
+      "service-definitionId": "li",
+      "estado": "realizado",
+      "razao": "123",
+      "agendamento": "programado",
+      "data": {
+        "dia": 26,
+        "mes": 3,
+        "ano": 2024,
+        "hora": 14,
+        "minutos": 15
+      },
+      "descrição": "Atenção ao banco do condutor."
+    },
+    {
+      "id": "s33",
+      "vehicleId": "AH-32-44",
+      "service-definitionId": "le",
+      "estado": "realizado",
+      "razao": "afsfgdgfsddgfs",
+      "agendamento": "filaDeEspera",
+      "descrição": "Ver jantes."
+    },
+    {
+      "id": "s34",
+      "vehicleId": "AH-21-25",
+      "service-definitionId": "sfc",
+      "estado": "realizado",
+      "razao": "",
+      "agendamento": "filaDeEspera",
+      "descrição": "Falta o filtro."
+    },
+    {
+      "id": "s12",
+      "vehicleId": "08-25-AA",
+      "service-definitionId": "sp",
+      "estado": "programado",
+      "razao": "Foram-se todos os pneus!",
+      "agendamento": "filaDeEspera",
+      "descrição": "Colocar XPTO 225R15"
+    },
+    {
+      "id": "s13",
+      "vehicleId": "08-25-AA",
+      "service-definitionId": "sfah",
+      "estado": "nafila",
+      "razao": "aergagafga",
+      "agendamento": "filaDeEspera",
+      "descrição": "Colocar XPTO 225R15"
+    },
+    {
+      "id": "s24",
+      "vehicleId": "08-25-AA",
+      "service-definitionId": "li",
+      "estado": "realizado",
+      "razao": "",
+      "agendamento": "programado",
+      "data": {
+        "dia": 2,
+        "mes": 2,
+        "ano": 2024,
+        "hora": 14,
+        "minutos": 15
+      },
+      "descrição": "shampoo XPTO"
+    },
+    {
+      "id": "s25",
+      "vehicleId": "08-25-AA",
+      "service-definitionId": "svi",
+      "estado": "nafila",
+      "razao": "",
+      "agendamento": "programado",
+      "data": {
+        "dia": 3,
+        "mes": 2,
+        "ano": 2024,
+        "hora": 14,
+        "minutos": 15
+      },
+      "descrição": "shampoo XPTO"
+    }
+  ]
+}

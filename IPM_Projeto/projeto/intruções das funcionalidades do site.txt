@@ -1,0 +1,9 @@
+Para ligar o servidor da DB:
+
+Abrir um cmd até à diretoria 'db' e executar o comand
+> json-server --watch db.json
+
+Para abrir o site:
+
+Abrir um powershell até à diretoria do projeto 'ipm_proj' e executar o comando
+> npm run dev
